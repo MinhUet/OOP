@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BVMINH.Demo.OOP.Object_Class_AccessModifier", "BVMINH.Demo.OOP\BVMINH.Demo.OOP.Object_Class_AccessModifier.csproj", "{0B0B9D69-4438-4AB8-9EA0-402A991E2421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BVMINH.Demo.OOP.Polymorphism_Inheritance", "BVMINH.Demo.OOP.Inheritance\BVMINH.Demo.OOP.Polymorphism_Inheritance.csproj", "{FA66129A-D3C8-4509-B156-6B88C263F553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B0B9D69-4438-4AB8-9EA0-402A991E2421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0B9D69-4438-4AB8-9EA0-402A991E2421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0B9D69-4438-4AB8-9EA0-402A991E2421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0B9D69-4438-4AB8-9EA0-402A991E2421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA66129A-D3C8-4509-B156-6B88C263F553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA66129A-D3C8-4509-B156-6B88C263F553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA66129A-D3C8-4509-B156-6B88C263F553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA66129A-D3C8-4509-B156-6B88C263F553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A55F043-68DB-4C52-842D-0E68CE9B518F}
+	EndGlobalSection
+EndGlobal

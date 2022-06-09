@@ -1,0 +1,16 @@
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\bin\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.exe
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\bin\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.deps.json
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\bin\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.runtimeconfig.json
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\bin\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.runtimeconfig.dev.json
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\bin\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.dll
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\bin\Debug\net5.0\ref\BVMINH.Demo.OOP.Object_Class_AccessModifier.dll
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\bin\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.pdb
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\obj\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.csproj.AssemblyReference.cache
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\obj\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\obj\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.AssemblyInfoInputs.cache
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\obj\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.AssemblyInfo.cs
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\obj\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.csproj.CoreCompileInputs.cache
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\obj\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.dll
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\obj\Debug\net5.0\ref\BVMINH.Demo.OOP.Object_Class_AccessModifier.dll
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\obj\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.pdb
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP\obj\Debug\net5.0\BVMINH.Demo.OOP.Object_Class_AccessModifier.genruntimeconfig.cache

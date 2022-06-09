@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BVMINH.Demo.OOP.Object_Class_AccessModifier/1.0.0": {
+        "runtime": {
+          "BVMINH.Demo.OOP.Object_Class_AccessModifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BVMINH.Demo.OOP.Object_Class_AccessModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

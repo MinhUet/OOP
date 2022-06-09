@@ -1,0 +1,16 @@
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\bin\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.exe
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\bin\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.deps.json
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\bin\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.runtimeconfig.json
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\bin\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.runtimeconfig.dev.json
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\bin\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.dll
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\bin\Debug\net5.0\ref\BVMINH.Demo.OOP.Polymorphism_Inheritance.dll
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\bin\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.pdb
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\obj\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.csproj.AssemblyReference.cache
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\obj\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\obj\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.AssemblyInfoInputs.cache
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\obj\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.AssemblyInfo.cs
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\obj\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.csproj.CoreCompileInputs.cache
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\obj\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.dll
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\obj\Debug\net5.0\ref\BVMINH.Demo.OOP.Polymorphism_Inheritance.dll
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\obj\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.pdb
+D:\C#\MISA\BVMINH.Demo\BVMINH.Demo.OOP.Inheritance\obj\Debug\net5.0\BVMINH.Demo.OOP.Polymorphism_Inheritance.genruntimeconfig.cache
